@@ -1,5 +1,3 @@
-### Olá, sou o Gustavo 👋
-
 Desenvolvedor Backend em formação, com foco no ecossistema **C# e .NET**.
 Atualmente cursando Pós-graduação em Arquitetura de Sistemas .NET pela FIAP.
 
