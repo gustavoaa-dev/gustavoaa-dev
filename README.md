@@ -3,12 +3,10 @@
 Desenvolvedor Backend em formação, com foco no ecossistema **C# e .NET**.
 Atualmente cursando Pós-graduação em Arquitetura de Sistemas .NET pela FIAP.
 
-Venho do suporte técnico, onde trabalhei com SLAs, processos e resolução de incidentes —
-experiência que hoje me ajuda a escrever software mais confiável e com visão de impacto real.
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -18,6 +16,6 @@ experiência que hoje me ajuda a escrever software mais confiável e com visão 
 
 ---
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Araujo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL-AQUI)
