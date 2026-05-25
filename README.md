@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá, sou o Gustavo 👋
 
-<!--
-**gustavoaa-dev/gustavoaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend em formação, com foco no ecossistema **C# e .NET**.
+Atualmente cursando Pós-graduação em Arquitetura de Sistemas .NET pela FIAP.
 
-Here are some ideas to get you started:
+Venho do suporte técnico, onde trabalhei com SLAs, processos e resolução de incidentes —
+experiência que hoje me ajuda a escrever software mais confiável e com visão de impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack principal
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Araujo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL-AQUI)
